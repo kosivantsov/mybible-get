@@ -254,7 +254,7 @@ This project is licensed under the **Apache License 2.0**.
 
 
 ## Related Projects
-- [mybible-cli](https://github.com/kosivantsov/mybible-cli-java) - Java CLI/GUI tool for retrieving biblical text from MyBible modules.
+- [mybible-cli-java](https://github.com/kosivantsov/mybible-cli-java) - Java CLI/GUI tool for retrieving biblical text from MyBible modules.
 
 ---
 
