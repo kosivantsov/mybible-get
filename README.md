@@ -245,18 +245,16 @@ This tool is designed to work alongside other biblical text processing applicati
 - Text analysis pipelines
 - Other MyBible-compatible applications
 
+## Credits and Thanks
+
+This tool would not be possible without the incredible work done by the creators of the [MyBible](https://mybible.zone) project.  
+The **MyBible** name and module format are the intellectual property of the MyBible project.
+
 ## License
 
 This project is licensed under the **Apache License 2.0**.
 
 **Important**: This license applies only to the `mybible-get` tool itself. The modules, the biblical text and other content they contain, the MyBible name, and the MyBible module format are all subject to their respective licenses and copyright holders, and are not covered by this license. Users are responsible for ensuring compliance with all applicable licenses for any content downloaded with this tool.
 
-
-
 ## Related Projects
 - [mybible-cli-java](https://github.com/kosivantsov/mybible-cli-java) - Java CLI/GUI tool for retrieving biblical text from MyBible modules.
-
----
-
-**Note:** This is an auxiliary tool for module management. For actual biblical text reading and study, use appropriate Bible study software or text processing tools.
-
