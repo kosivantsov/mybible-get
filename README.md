@@ -60,7 +60,6 @@ python3 mybible_get.py --help
 - Dependencies (automatically installed with pipx):
   - click
   - requests
-  - peewee
   - rich
 
 ## Quick Start
